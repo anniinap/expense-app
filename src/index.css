@@ -1,0 +1,8 @@
+/* styles.css */
+input::placeholder {
+    color: gray;
+}
+body {
+    margin: 3rem;
+}
+  
