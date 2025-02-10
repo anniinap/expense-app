@@ -1,7 +1,7 @@
 import axios from "axios";
 import { Expense } from "../interfaces/expenseInterface";
 
-const url = "http://localhost:5001/expenses/";
+const url = import.meta.env.VITE_API_URL;;
 
 // GET
 export const getExpenses = async () => {
