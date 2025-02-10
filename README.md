@@ -1,6 +1,6 @@
-# Expense APP
+# Expense App
 
-Expense APP is a web application that allows users to manage their monthly expenses and track their spending. The app is built with **React**, **TypeScript**, and **Vite** for development. It uses **Material UI** for the user interface components, **Axios** for API requests, and a local **JSON server** for storing and managing expense data.
+Expense App is a web application that allows users to manage their monthly expenses and track their spending. The app is built with **React**, **TypeScript**, and **Vite** for development. It uses **Material UI** for the user interface components, **Axios** for API requests, and a local **JSON server** for storing and managing expense data.
 
 ## Features
 
